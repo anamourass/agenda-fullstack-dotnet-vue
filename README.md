@@ -31,7 +31,7 @@ Axios: Cliente HTTP para comunicação assíncrona com a API .NET.
 
 Componentes Customizados: Criação do ContatoCard.vue, separando a lógica de exibição da lógica de listagem principal.
 
-🏗️ Padrões de Projeto Aplicados
+Padrões de Projeto Aplicados
 Repository Pattern: Para abstrair a lógica de acesso a dados.
 
 Service Layer: Onde reside toda a regra de negócio e validações.
@@ -40,7 +40,7 @@ DTO Pattern: Para transferência de dados segura entre as camadas.
 
 Clean Code: Código organizado em pastas específicas (Interfaces, Mappings, Validators, DTOs).
 
-🚀 Como Executar o Projeto
+ Como Executar o Projeto
 1. Backend
 Bash
 cd AgendaApiNova
@@ -59,7 +59,6 @@ O site estará disponível em: http://localhost:5173
 Bash
 cd AgendaApiNova.Tests
 dotnet test
-👤 Desenvolvedora
-Ana Carolina Moura
-Analista e Desenvolvedora de Sistemas | Java & .NET Full Stack
+
+
 Desenvolvido por **Ana Carolina Moura** ✨
